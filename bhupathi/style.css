@@ -1,0 +1,95 @@
+.logo {
+  margin-right: auto;
+  width: auto;
+  height: auto;
+  margin-top: -20px;
+
+}
+
+
+.nav-link {
+  list-style: none;
+  display: flex;
+  margin-top: -20px;
+}
+
+.nav-link a,
+.cta,
+.overlay__content a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+.nav-link li {
+  padding: 0px 10px;
+  margin-top: -20px;
+}
+
+.nav-link li a {
+  transition: all 0.3s ease 0s;
+}
+
+.nav-link li a:hover {
+  color: #0088a9;
+}
+
+.cta {
+  margin-left: 20px;
+  padding: 15px 25px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background: #8A2387;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+.king{
+  padding-top: 20px;
+  width: 1000px;
+  height:500px;
+  
+  top:10%;
+}
+.section1{
+  margin-top: 100px;
+}
+.heading{
+  margin-left: -10px;
+}
+
+.text{
+  margin-left: -10px;
+  margin-top: 30px;
+  font-size: 20px; 
+}
+.button1{
+  margin-left: 20px;
+  padding: 15px 25px;
+  background: #8A2387;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  margin-top: 100px;
+
+}
+span{
+  color:#ffffff;
+}
+.card-img{
+  height: 50%;
+  width: 50%;
+}
+
+
